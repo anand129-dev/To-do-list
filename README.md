@@ -1,6 +1,7 @@
 # To-Do List Application
 
 This is a simple to-do list application hosted on GitHub Pages. It allows users to add tasks, mark them as done, and delete tasks. Additionally, the application includes a feature that alerts the user if they try to add an empty task. It also utilizes browser storage to save tasks using the localStorage property of javascript.
+<img width="1232" height="783" alt="Screenshot 2025-12-07 at 12 58 50 AM" src="https://github.com/user-attachments/assets/6ed8306c-98c4-44e1-9ab8-f7ed000de752" />
 
 ## Features
 
